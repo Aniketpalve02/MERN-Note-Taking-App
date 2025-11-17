@@ -51,7 +51,7 @@ for both development and production, the project provides a secure, scalable, an
 
 
 
-
+## 🧩 Tech Stack
 
 ## 🎨 Frontend
 
